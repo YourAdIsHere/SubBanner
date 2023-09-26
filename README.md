@@ -1,4 +1,6 @@
 # SubBanner
+![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
+[![Licence](https://img.shields.io/github/license/Ileriayo/markdown-badges?style=for-the-badge)](./LICENSE)
 Dynamically update YouTube banners with subscriber count.
 ## Notes
 * You NEED both python2.7 and python3 to run this - submit a pull request if you want to update the second script to python3 or combine the 2
